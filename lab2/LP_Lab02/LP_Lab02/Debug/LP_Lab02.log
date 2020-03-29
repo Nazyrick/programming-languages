@@ -1,0 +1,7 @@
+﻿  Func_mul.cpp
+  Func_sub.cpp
+  Func_sum.cpp
+  LP_Lab02.cpp
+  Создание кода...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Ulasevich-Nazar\direct\lab2\LP_Lab02\Debug\LP_Lab02.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
