@@ -1,0 +1,5 @@
+﻿  LP_Lab04.cpp
+C:\Ulasevich-Nazar\direct\lab4\LP_Lab04\LP_Lab04\LP_Lab04.cpp(30,16): warning C4309: инициализация: усечение константного значения
+C:\Ulasevich-Nazar\direct\lab4\LP_Lab04\LP_Lab04\LP_Lab04.cpp(90): warning C4723: возможное деление на 0
+C:\Ulasevich-Nazar\direct\lab4\LP_Lab04\LP_Lab04\LP_Lab04.cpp(91): warning C4723: возможное деление на 0
+  LP_Lab04.vcxproj -> C:\Ulasevich-Nazar\direct\lab4\LP_Lab04\Debug\LP_Lab04.exe
